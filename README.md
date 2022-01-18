@@ -1,3 +1,3 @@
 # Profile-card-component
 
-![This is an image](/images/design.jpg)
+![This is an image](design/design.jpg)
